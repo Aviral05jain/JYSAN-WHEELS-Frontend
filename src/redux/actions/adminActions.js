@@ -6,7 +6,7 @@ export const adminLogin=(reqObj)=>async dispatch=>{
 
 
     try{
-        const response = await axios.post('/api/admins/login',reqObj)
+        const response = await axios.post('https://jysan-wheels-car-rental-backend-2.onrender.com/api/admins/login',reqObj)
         localStorage.setItem('admin',JSON.stringify(response.data))
         message.success('Login success');
         dispatch({type:'LOADING',payload:false})
