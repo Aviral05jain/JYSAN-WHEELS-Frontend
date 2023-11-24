@@ -1,7 +1,7 @@
 /* Home.css */
 
 .home-background {
-   background: url('https://github.com/Aviral05jain/JYSAN-WHEELS-Frontend/blob/9222054d077831894c9c474190cf00d307fa1348/src/components/about7.jpg') center/cover fixed; 
+   background: url('https://raw.githubusercontent.com/Aviral05jain/JYSAN-WHEELS-Frontend/main/src/components/about7.jpg') center/cover fixed; 
     min-height: 100vh;
     display: flex;
     align-items: center;
