@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('https://github.com/Aviral05jain/JYSAN-WHEELS-Frontend/blob/9222054d077831894c9c474190cf00d307fa1348/src/components/about7.jpg') no-repeat;
+  background: url('https://raw.githubusercontent.com/Aviral05jain/JYSAN-WHEELS-Frontend/main/src/components/about7.jpg') no-repeat;
   background-size: cover;
 }
 
@@ -30,7 +30,7 @@
 .weblogo{
   width: 250px;
   height:250px;
-  background-image: url('https://github.com/Aviral05jain/JYSAN-WHEELS-Frontend/blob/5033e9165671e08a030ae94d6b440126dde69c94/src/components/JYSANLgo.png');
+  background-image: url('https://raw.githubusercontent.com/Aviral05jain/JYSAN-WHEELS-Frontend/main/src/components/JYSANLgo.png');
   background-size:cover;
   position: absolute;
   top:50%;
