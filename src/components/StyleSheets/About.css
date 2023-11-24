@@ -1,11 +1,11 @@
 
 
 body{
-  background: url('https://github.com/Aviral05jain/JYSAN-WHEELS-Frontend/blob/9222054d077831894c9c474190cf00d307fa1348/src/components/about7.jpg') center/cover fixed;
+  background: url('https://raw.githubusercontent.com/Aviral05jain/JYSAN-WHEELS-Frontend/main/src/components/about7.jpg') center/cover fixed;
 }
 
 .about-body {
-  background: url('https://github.com/Aviral05jain/JYSAN-WHEELS-Frontend/blob/d71cc00b999e33fed358cfbc9c09016d3bdd9076/src/components/about9.jpg') center/cover fixed; /* Replace with your image path */
+  background: url('https://raw.githubusercontent.com/Aviral05jain/JYSAN-WHEELS-Frontend/main/src/components/about9.jpg') center/cover fixed; /* Replace with your image path */
   background-color: #f8f8f8; /* Fallback background color */
   color: #333; /* Dark text color */
 }
